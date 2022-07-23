@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/chem-event/static/css/main.40de7cc8.css",
+    "main.js": "/chem-event/static/js/main.efa360cb.js",
+    "static/js/787.00d3f05a.chunk.js": "/chem-event/static/js/787.00d3f05a.chunk.js",
+    "static/media/thumbnail.png": "/chem-event/static/media/thumbnail.18d8f761b64e70f603df.png",
+    "static/media/bg.jpg": "/chem-event/static/media/bg.9bc82a637905d7fe7b45.jpg",
+    "index.html": "/chem-event/index.html",
+    "main.40de7cc8.css.map": "/chem-event/static/css/main.40de7cc8.css.map",
+    "main.efa360cb.js.map": "/chem-event/static/js/main.efa360cb.js.map",
+    "787.00d3f05a.chunk.js.map": "/chem-event/static/js/787.00d3f05a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40de7cc8.css",
+    "static/js/main.efa360cb.js"
+  ]
+}
