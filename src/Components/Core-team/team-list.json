@@ -1,25 +1,105 @@
 {
+    "faculty":[
+        {
+            "img":"https://iitj.ac.in/dept_faculty_pic/sumitkamal.jpg",
+            "phone": "(91 291) 280 1715",
+            "Name": "Sumit Kamal",
+            "position":"Assistant Proffesor",
+            "bio":"Event Faculty Head"
+        },
+        {
+            "img":"https://iitj.ac.in/dept_faculty_pic/vikky.jpg",
+            "phone": "(91 291) 280 1710",
+            "Name": "Vikky Anand",
+            "position":"Assistant Proffesor",
+            "bio":"Event Faculty Head" 
+        },
+        {
+            "img":"https://iitj.ac.in/dept_faculty_pic/guptapk.jpg",
+            "phone": "(91 291) 280 1709",
+            "Name": "Prashant Kumar Gupta",
+            "position":"Assistant Proffesor",
+            "bio":"Event Faculty Head" 
+        }
+    ],
+
+
         "devlopers" : [
             {
-                "img":"",
+                "img":"https://avatars.githubusercontent.com/u/99041072?v=4",
                 "roll": "B20CH018",
                 "Name": "Hrishi Raj Singh",
-                "bio":"Frontend Web Developer"
+                "phone": "6205587596",
+                "bio": "Head"
             },
-
+            
             {
-                "img":"",
-                "roll": "B20CH042",
+                "img":"https://drive.google.com/file/d/1AsbiXJxof5OQuCb4LuNsCwcNLmFNmJ6B/view?usp=sharing",
                 "Name": "Shreya Pagaria",
-                "bio":"Frontend Web Developer"
+                "phone": "9678859497",
+                "bio": "Head"
+                
+            },
+            {
+                "img":"https://drive.google.com/file/d/10yfHj4VEpxD20RLgRbqN6GMgtUsnCEFz/view?usp=sharing",
+                "Name": "Niranjan Jangir",
+                "phone": "9462459005",
+                "bio": "Assistant Head"
+
+            }
+        ],
+        
+        "Public-Relation-College":[
+            {
+                "img":"https://drive.google.com/file/d/13fKSXGIaEqfExPJvtyFS8hnxODJ3Gi-q/view?usp=sharing",
+                "Name": "Goga Ram",
+                "phone": "7558622017",
+                "bio": "Head"
+            },
+            {
+                "img":"https://drive.google.com/file/d/11WkJS8_tZ4sOZPjLoWGyF4Sl9me-6vC4/view?usp=sharing",
+                "Name": "Ankush Gupta",
+                "phone": "8791221865",
+                "bio" : "Head"
+            },
+            {
+                "img":"",
+                "Name": "Simran Soni",
+                "phone": "8307079188",
+                "bio": "Assistant Head"
+            }
+        ],
+        "Public-Relation-Funding":[
+            {
+                "img":"https://drive.google.com/file/d/1PYZuzoE3S4djqmsO4OxsY1LNQ0C1FTD9/view?usp=sharing",
+                "Name": "Nitin Prasad",
+                "phone": "8218392003",
+                "bio" : "Head"
+                
+            },
+            {
+                "img":"",
+                "Name": "Shefali Gupta",
+                "phone": "9754047997",
+                "bio" : "Head"
+
+            }
+        ],
+        "Event-Management":[
+            {
+                "img":"https://drive.google.com/file/d/1PYZuzoE3S4djqmsO4OxsY1LNQ0C1FTD9/view?usp=sharing",
+                "Name": "Arun Sahu",
+                "phone": "7489813538",
+                "bio":"Head"
 
             },
             {
                 "img":"",
-                "roll": "B20CH024",
-                "Name": "Nimish Purohit",
-                "bio":"Backend Web Developer"
+                "Name": "Chris Tomsy",
+                "phone": "7758821511",
+                "bio":"Head"
 
             }
         ]
+
 }
