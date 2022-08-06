@@ -63,7 +63,7 @@
                 "bio" : "Head"
             },
             {
-                "img":"",
+                "img":"https://drive.google.com/file/d/1gnrE3TP9SMmkxOiY4Ub1X_moyhuuOPE3/view?usp=sharing",
                 "Name": "Simran Soni",
                 "phone": "8307079188",
                 "bio": "Assistant Head"
@@ -78,10 +78,17 @@
                 
             },
             {
-                "img":"",
+                "img":"https://drive.google.com/file/d/1OxNLJ7E6bcto6X11ssguVJtyig26FFdU/view?usp=sharing",
                 "Name": "Shefali Gupta",
                 "phone": "9754047997",
                 "bio" : "Head"
+
+            },
+            {
+                "img":"https://drive.google.com/file/d/1PjZZG1vVXHHaYopmzqmJczmhbFi6nEsv/view?usp=sharing",
+                "Name": "Devang Dobliyal",
+                "phone": "8092053038",
+                "bio" : "Assistant Head"
 
             }
         ],
@@ -98,6 +105,20 @@
                 "Name": "Chris Tomsy",
                 "phone": "7758821511",
                 "bio":"Head"
+
+            },
+            {
+                "img":"https://drive.google.com/file/d/1fDshW70sgoaRwwivBl1RPsziR4nDXuCW/view?usp=sharing",
+                "Name": "Suyash Surana",
+                "phone": "7898425068",
+                "bio":"Assistant Head"
+
+            },
+            {
+                "img":"",
+                "Name": "Karan Thakur ",
+                "phone": "9205715603",
+                "bio":"Assistant Head"
 
             }
         ]
